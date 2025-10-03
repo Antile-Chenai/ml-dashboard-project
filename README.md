@@ -1,9 +1,9 @@
 # ML Dashboard Project
 
 ## Overview
-Demonstrates building machine learning models and dashboards to analyze sample business data, including preprocessing, feature engineering, model training, and evaluation.
+This project demonstrates building machine learning models and dashboards to analyze sample business data. It covers data preprocessing, feature engineering, model training, and evaluation.
 
-## Technologies
+## Technologies Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ## Scripts
