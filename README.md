@@ -1,22 +1,12 @@
-# ml-dashboard-project
+# ML Dashboard Project
 
 ## Overview
-This is the ml-dashboard-project project.
+This project demonstrates building machine learning models and dashboards to analyze sample business data. It covers data preprocessing, feature engineering, model training, and evaluation.
 
-## Technologies
-Python, Pandas, NumPy, Matplotlib
+## Technologies Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ## Scripts
 ```python
-print('ml-dashboard-project Project')
-```
-
-## Usage
-```bash
-python scripts/main.py
-```
-
-## Outcome
-- Full project code included
-- Ready for further development
+$(cat scripts/main.py)
 
